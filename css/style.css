@@ -128,3 +128,15 @@ body {
   font-size: 13px;
   margin-top: 1px;
 }
+
+/* Esqueci a Senha */
+
+#forgot-pass {
+  margin-bottom: 20px;
+  font-size: 12px;
+}
+
+#forgot-pass a {
+  text-decoration: none;
+  color: #373799;
+}
